@@ -19,6 +19,7 @@
   "homepage": "https://github.com/lsimianer/FriendFinder#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "gnodemon": "0.0.3",
     "node": "^12.6.0",
     "path": "^0.12.7"
   }

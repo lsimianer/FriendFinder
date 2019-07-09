@@ -51,6 +51,11 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+#foot a:hover{
+    color: white;
+    text-decoration-color: black;
+}
+
 #submitButton{
     color: rgb(2, 2, 2);
     border-radius: 50%;
@@ -72,4 +77,16 @@ select{
     color: white;
     border-color: gold;
 
+}
+
+#again{
+    text-decoration-line: underline;
+    text-decoration-color: gold;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#again:hover{
+    color: white;
+    text-decoration-color: black;
 }

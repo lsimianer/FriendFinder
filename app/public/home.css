@@ -1,0 +1,45 @@
+body{
+    background-color: #00b0c7;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+
+.navbar{
+    color: white;
+    background-color: black;
+}
+
+.nav-link{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+
+.nav-link:hover{
+    color: gold;
+}
+.navbar-brand:hover{
+    color: gold;
+}
+
+#mainBody{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+}
+.subHead{
+    text-align: center;
+}
+.startBtn{
+    margin-left: 46%;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: gold;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.startBtn:hover{
+    color: white;
+    text-decoration-color: black;
+}
