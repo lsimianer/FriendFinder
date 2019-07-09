@@ -1,0 +1,75 @@
+body{
+    background-color: #00b0c7;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+
+.navbar{
+    color: white;
+    background-color: black;
+}
+
+.nav-link{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+
+.nav-link:hover{
+    color: gold;
+}
+.navbar-brand:hover{
+    color: gold;
+}
+
+.container{
+    text-align: center;
+}
+
+.header{
+    font-size: 1.5rem;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.question{
+    font-size: 1.25rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#foot{
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom: 3%;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#foot a{
+    text-decoration-line: underline;
+    text-decoration-color: gold;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#submitButton{
+    color: rgb(2, 2, 2);
+    border-radius: 50%;
+    background-color: #d8ca04;
+    background-image: url("https://www.transparenttextures.com/patterns/argyle.png");
+    width: 123px;
+    height: 43px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input{
+    background-color: black;
+    color: white;
+    border-color: gold;
+}
+
+select{
+    background-color: black;
+    color: white;
+    border-color: gold;
+
+}
